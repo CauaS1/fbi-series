@@ -7,4 +7,4 @@ There are animation with the library <a href="https://cdnjs.com/libraries/gsap/2
 
 <img src="https://github.com/CauaS1/fbi-series/blob/master/demonstration.gif" />
 
-<i>I want to make the complete website ;)<i/>
+<i>I want to make the complete website in the future ;)<i/>
